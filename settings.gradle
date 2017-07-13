@@ -1,0 +1,4 @@
+rootProject.name = 'browser-tests'
+include ':selenium'
+
+project(':selenium').projectDir = "$rootDir/selenium" as File

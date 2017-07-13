@@ -1,0 +1,32 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "christopherhanna1",
+  "key": "p67huTp2FsDENgqwzkaA",
+  "capabilities": {
+    "build": "test.dfg-viewer.de",
+    "browserstack.debug": true
+  },
+  "environments": [
+    {
+      "browser": "chrome"
+    },
+    {
+      "browser": "firefox"
+    },
+    {
+      "browser": "safari"
+    },
+    {
+      "browser": "internet explorer"
+    },
+    {
+      "browser": "opera"
+    },
+    {
+      "browser": "android"
+    },
+    {
+      "browser": "iphone"
+    }
+  ]
+}
